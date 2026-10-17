@@ -14,6 +14,10 @@ A colorful, local-first tool for comparing PDF and text revisions. It highlights
 
 **React · TypeScript · PDF.js · MIT**
 
+## Open-source contribution in progress
+
+- [PDF.js PR #22225](https://github.com/mozilla/pdf.js/pull/22225) — add TypeScript declarations for five viewer options already accepted at runtime. **Open for review.**
+
 ## What I’m working toward
 
 - Shipping small, practical tools as open source

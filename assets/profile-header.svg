@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Goutham Valugula</title>
+  <desc id="desc">Software, experiments, and ideas</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1040" cy="38" r="280" fill="url(#glow)"/>
+  <circle cx="1040" cy="38" r="205" fill="none" stroke="#93c5fd" stroke-opacity=".12"/>
+  <circle cx="1040" cy="38" r="145" fill="none" stroke="#c4b5fd" stroke-opacity=".16"/>
+  <path d="M0 254 C240 205 370 305 620 250 S980 205 1200 245" fill="none" stroke="url(#line)" stroke-opacity=".35" stroke-width="2"/>
+  <rect x="72" y="68" width="5" height="142" rx="2.5" fill="url(#line)"/>
+  <text x="104" y="136" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="48" font-weight="700" letter-spacing="-1">Goutham Valugula</text>
+  <text x="106" y="180" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="21" letter-spacing="1.5">SOFTWARE · EXPERIMENTS · IDEAS</text>
+  <circle cx="1083" cy="210" r="5" fill="#7dd3fc"/>
+  <circle cx="1111" cy="210" r="5" fill="#a78bfa"/>
+  <circle cx="1139" cy="210" r="5" fill="#c4b5fd"/>
+</svg>

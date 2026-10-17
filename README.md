@@ -2,15 +2,23 @@
   <img src="assets/profile-header.svg" alt="Goutham Valugula — Software, experiments, and ideas" width="100%" />
 </p>
 
-# Goutham Valugula
+# Hi, I’m Goutham 👋
 
-A place for **software projects, experiments, and ideas**—shared as they take shape.
+I’m building useful software, learning by shipping, and sharing the work in the open.
 
-## What you'll find here
+## Featured project
 
-- Projects and small experiments
-- Useful notes from the build process
+### [Revise — document revision comparison](https://github.com/goutham-valugula/revise)
+
+A colorful, local-first tool for comparing PDF and text revisions. It highlights what changed while keeping files in the browser and leaving decisions to the reviewer.
+
+**React · TypeScript · PDF.js · MIT**
+
+## What I’m working toward
+
+- Shipping small, practical tools as open source
+- Improving projects through careful, useful contributions
 
 ---
 
-*More to come.*
+[Browse my repositories](https://github.com/goutham-valugula?tab=repositories) · [Explore Revise](https://github.com/goutham-valugula/revise)
